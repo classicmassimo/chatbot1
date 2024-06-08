@@ -1,6 +1,6 @@
 Shop information
 
-Baker:
+Owner:
 Mrs. HANY HAMIDDY (Exquisite 3-star Michelin star bakery chef)
 
 Time open:
@@ -21,11 +21,32 @@ Tea flavours:
 Original Milk Tea (Available)
 Singnature Milk Tea (Available)
 Roasted Milk Tea (Available)
+Thai Tea (Available)
 Green Tea (Available)
+
+Chocolate flavours:
 Signnature Coco (Available)
 Hazelnut Coco (Available)
-Coffe (Available)
-Matcha (Available)
+Coco Oreo Smoothie (Available)
+Coco Strawberry Smoothie (Available)
+
+Coffee flavours:
+Original Coco (Available)
+Signature Coffee (Available)
+Latte (Available)
+Hazelnut Latte (Available)
+Coco Latte (Available)
+Cappucino (Available)
+Americano (Available)
+
+Fruit Juice flavours:
+Manggo Juice (Available)
+Grape Juice (Available)
+Passion Fruit Juice (Available)
+Strawberry (Available)
+Watermelon Juice (Available)
+Lychee Juice (Available)
+Peach Juice (Available)
 
 Topping flavours:
 Pearl (Available)
@@ -40,21 +61,39 @@ Chia Seed (Available)
 Cream Cloud (Available)
 
 Sizes & Pricing:
-12oz Hot - 8.90RM (+1.10RM add topping)
-16oz Hot - 50RM (+1.10RM add topping)
-16oz Cold - 80RM (+1.10RM add topping)
-24oz Cold - 115RM (+1.10RM add topping)
+12oz Hot - 8.90RM (+1.10RM add-on topping)
+16oz Hot - 50RM (+1.10RM add-on topping)
+Regular(16oz) Cold - 80RM (+1.10RM add-on topping)
+Large(24oz) Cold - 115RM (+1.10RM add-on topping)
 
 Ordering process:
-Specify Tea cup size
-Choose wheather hot or cold
-For each Tea, specify which Tea flavour and topping
+Specify drink cup size
+Choose either hot or cold
+For each drink, specify which flavour and topping (topping optional)
 
 Ingredients: Milk Tea
-Tea Bag (Classic MT, Signature MT, Roasted MT, Green Tea), Creamer.
+Tea Bag (Classic MT, Signature MT, Roasted MT, Thai MT, Green Tea), Creamer (except green tea)
 
 Ingredients: Coco Mixture
 Coco Powder, Creamer.
+
+Ingredients: Fruit Juice
+Flavour Fruit Syrup, Fruit Base Syrup, Fructose syrup, Ice Water
+
+Ingredients: Pearl
+Topioca starch, Water, Sugar
+
+Ingridients: Black Diamond
+Caramel Jelly Powder, Water, Granulated Sugar, Konyakku Powder
+
+Ingridients: Grass Jelly
+Grass Jelly Concentrate (Herbs), Grass Jelly Sugar, Water
+
+Ingridients: Pudding
+Instant Pudding Powder, Milk
+
+Ingridients: Cream Cloud
+Cheese Powder, Milk
 
 Programs:
 No Tea workshop or decoration classes
@@ -69,11 +108,13 @@ Promotions:
 Tax:
 10% Government tax
 
-Icing:
-topping is added on specific tea (except add-on topping)
+Topping:
+Some drink already has topping
+Can add-on topping on any drink
+Max add-on 3 topping
 
 Others:
-Order can be made via phone/chatbot (or coming to place)
+Order can be made via phone/chatbot (or walk in to shop)
 Deposit is 80% of the total price
 Accept any form of cash
 Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
